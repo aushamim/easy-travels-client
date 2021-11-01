@@ -1,0 +1,32 @@
+.navBar {
+  font-weight: 500;
+  background-color: rgba(34, 34, 34, 0.9);
+}
+.nav-links a {
+  color: white !important;
+}
+.nav-links a:hover,
+.nav-links a:focus {
+  color: var(--bs-red) !important;
+}
+.login-btn {
+  color: white !important;
+  padding: 10px;
+  margin-left: 5px;
+  background-color: var(--bs-red);
+  border-radius: 20px;
+  cursor: pointer;
+}
+.login-btn a:hover,
+.login-btn a:focus {
+  color: white !important;
+}
+.login-btn :nth-child(1):hover {
+  color: var(--bs-yellow);
+}
+.login-btn :nth-child(2):hover {
+  color: var(--bs-yellow);
+}
+.logout-btn {
+  padding: 0;
+}
