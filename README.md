@@ -11,3 +11,4 @@
 - Blogs.
 
 > live Site Link: https://easy-travels-a11.netlify.app/
+> Server Side Repo: https://github.com/aushamim/easy-travels-server
